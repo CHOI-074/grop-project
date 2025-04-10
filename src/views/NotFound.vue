@@ -1,6 +1,6 @@
 <template>
   <div
-    class="min-h-screen flex flex-col items-center justify-center bg-white text-center relative overflow-hidden"
+    class="min-h-screen flex flex-col items-center justify-center bg-white text-center relative overflow-hidden px-4 py-6 max-w-md mx-auto"
   >
     <div class="absolute top-24 left-1/3 w-3 h-3 bg-rose-300 rounded-full"></div>
     <div class="absolute bottom-40 left-1/4 w-2 h-2 bg-rose-200 rounded-full"></div>
